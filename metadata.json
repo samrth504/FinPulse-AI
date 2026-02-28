@@ -1,0 +1,5 @@
+{
+  "name": "Financial News Sentiment Analyzer",
+  "description": "A professional AI-powered dashboard that analyzes financial news headlines to predict market sentiment, affected sectors, and potential stock impact using Gemini AI.",
+  "requestFramePermissions": []
+}
